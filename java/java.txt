@@ -1,0 +1,28 @@
+jdk环境配置
+    JAVA_HOME  用wsFrame/jdk1.7
+    CLASSPATH
+    PATH
+
+    测试cmd  javac -version
+
+编写代码wsFerame/eclips  编写代码  Tomcat用wsFrame下的
+
+    新建个java project
+
+    package 命名空间处理类名相同冲突
+
+    大小写敏感
+    类名多个单词首字母大写，方法名小写字母开头，第二个单词首字母大写
+
+    面向对象
+    封装
+    将对象的属性和行为封装起来，而将对象的属性和行为封装起来的载体就是类
+
+    继承
+
+    多态
+
+    访问修饰符
+    变量  常量  类型转换  赋值  关系运算 分支  循环
+    关系
+
